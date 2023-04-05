@@ -45,3 +45,5 @@ Here are some ideas to get you started:
   
   ### Let's Get Connected!
   - <a href="https://www.linkedin.com/in/eunicexpark01" target="_blank">LinkedIn</a>
+  - <a href= https://wellfound.com/u/eunicexpark01" target="_blank">Wellfound</a>
+ 
