@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=evnxprk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## 
-
+- 🐶 I enjoy playing games during my free time and love animals. 
 - 🌱 I studied at App Academy, University of Southern California, and University of California, Irvine. 
 - 💻 I am currently learning Typescript and C++
 - 📧 You can reach me @ eunicexpark01@gmail.com OR <a href="https://www.linkedin.com/in/eunicexpark01" target="_blank">LinkedIn</a>
