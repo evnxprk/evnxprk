@@ -22,7 +22,12 @@ Here are some ideas to get you started:
 - 🐶 I enjoy playing games during my free time and love animals. 
 - 🌱 I studied at App Academy, University of Southern California, and University of California, Irvine. 
 - 💻 I am currently learning Typescript and C++
-- 📧 You can reach me @ eunicexpark01@gmail.com OR <a href="https://www.linkedin.com/in/eunicexpark01" target="_blank">LinkedIn</a>
+- 
+- ### Let's Get Connected!
+
+<a href="https://www.linkedin.com/in/eunicexpark01/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://wellfound.com/u/eunicexpark01" target="_blank"><img alt="Wellfound" src="https://img.shields.io/badge/wellfound-%ccc.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:eunicexpark01@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
