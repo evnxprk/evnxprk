@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 ## 
 
 🌱 I studied at App Academy, University of Southern California, and University of California, Irvine. 
+##
+💻 I am currently learning Typescript and C++
+##
 
 📧 You can reach me @ eunicexpark01@gmail.com
 
