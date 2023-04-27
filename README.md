@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🐶 I enjoy playing games during my free time and love animals. 
 - 🌱 I studied at App Academy, University of Southern California, and University of California, Irvine. 
 - 💻 I am currently learning Typescript and C++
-- 
+
 - ### Let's Get Connected!
 
 <a href="https://www.linkedin.com/in/eunicexpark01/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
