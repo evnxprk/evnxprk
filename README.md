@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!!👋+I'm+Eunice!+Welcome!)](https://git.io/typing-svg)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evnxprk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=evnxprk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=evnxprk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evnxprk&theme=dark&background=000000)](https://git.io/streak-stats)
 - 🌱 I studied at App Academy, University of Southern California, and University of California, Irvine. 
 - 💻 I am currently learning Typescript and C++
