@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evnxprk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=evnxprk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## 
 - 🐶 I enjoy playing games during my free time and love animals. 
 - 🌱 I studied at App Academy, University of Southern California, and University of California, Irvine. 
