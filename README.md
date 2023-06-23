@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=evnxprk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evnxprk&theme=dark&background=000000)](https://git.io/streak-stats)
-- 🌱 I studied at App Academy, University of Southern California, and University of California, Irvine. 
-- 💻 I am currently learning Typescript and C++
+- 🌱 I studied at App Academy, the University of Southern California, and the University of California, Irvine. 
+- 💻 I am currently learning Typescript.
+- 🎮 I play video games, such as Valorant, Overewatch 2 and much more. Ask me about any games you play :) 
 
 - ### Let's Get Connected!
 
